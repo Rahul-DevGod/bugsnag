@@ -5,6 +5,7 @@ Automatically detect JavaScript errors in the browser, Node.js and React Native,
 Learn more about [JavaScript error reporting](https://www.bugsnag.com/platforms/javascript/) and [React Native error reporting](https://www.bugsnag.com/platforms/react-native-error-reporting/) from Bugsnag.
 
 ---
+This is the kingdom come		
 
 This is a monorepo (managed with [Lerna](https://lerna.js.org/) containing our universal error reporting client [`@bugsnag/js`](/packages/js), and our React Native client [`@bugsnag/react-native`](/packages/react-native), along with:
 
